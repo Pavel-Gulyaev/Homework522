@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework 5-2-2</string>
+    <string name="russian">Русский</string>
+    <string name="english">Английский</string>
+    <string name="ok">OK</string>
+    <string name="text"> Ло́ндон  — столица и крупнейший город Соединённого Королевства Великобритании и Северной Ирландии.</string>
+    <string name="checkbox">Хранить логин во внешнем хранилище</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="registration">Регистрация</string>
+</resources>

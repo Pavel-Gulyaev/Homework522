@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework 5-2-2</string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+    <string name="ok">OK</string>
+    <string name="text"> London  is the capital and largest city of both England and the United Kingdom.</string>
+    <string name="checkbox">Save data in external directory</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+</resources>
